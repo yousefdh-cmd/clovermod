@@ -1,0 +1,252 @@
+{
+  "type": "extendedcrafting:shapeless_table",
+  "tier": 4,
+  "ingredients": [
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    },
+    {
+      "item": "clovermod:five_leaf_clover"
+    }
+  ],
+  "result": {
+    "id": "clovermod:six_leaf_clover"
+  }
+}

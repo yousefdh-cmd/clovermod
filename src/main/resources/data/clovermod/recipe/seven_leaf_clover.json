@@ -1,0 +1,252 @@
+{
+  "type": "extendedcrafting:shapeless_table",
+  "tier": 4,
+  "ingredients": [
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    },
+    {
+      "item": "clovermod:six_leaf_clover"
+    }
+  ],
+  "result": {
+    "id": "clovermod:seven_leaf_clover"
+  }
+}

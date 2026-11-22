@@ -1,0 +1,33 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "clovermod"
+version = "1.0.0"
+displayName = "Clover Mod"
+description = '''
+Five tiers of clovers (3 to 7 leaves) crafted only on the Ultimate 9x9 table of Extended Crafting.
+Right click to get the effects.
+'''
+
+[[dependencies.clovermod]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.clovermod]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.clovermod]]
+modId = "extendedcrafting"
+type = "required"
+versionRange = "[7.0.0,)"
+ordering = "AFTER"
+side = "BOTH"

@@ -1,0 +1,252 @@
+{
+  "type": "extendedcrafting:shapeless_table",
+  "tier": 4,
+  "ingredients": [
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    },
+    {
+      "item": "clovermod:four_leaf_clover"
+    }
+  ],
+  "result": {
+    "id": "clovermod:five_leaf_clover"
+  }
+}
