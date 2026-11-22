@@ -1,0 +1,35 @@
+name: build
+on:
+  push:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unpack zip
+        run: |
+          if [ -f clovermod.zip ]; then
+            unzip -q clovermod.zip -d /tmp/x
+            rsync -a --exclude .github /tmp/x/clovermod/ ./
+            rm clovermod.zip
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -A
+            git commit -m "Unpack clovermod.zip"
+            git push
+          fi
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: 8.10.2
+      - run: gradle build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: clovermod
+          path: build/libs/*.jar
